@@ -976,3 +976,4 @@ function LumiChatbot({ userId, candidateName }: { userId: string | null; candida
   );
 }
 
+// Gemini-powered career chatbot interface module
