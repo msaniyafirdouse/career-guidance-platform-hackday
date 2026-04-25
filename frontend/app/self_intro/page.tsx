@@ -294,7 +294,7 @@ export default function SelfIntroCoach() {
           <SidebarItem href="/job-recommendations" icon={<Briefcase className="w-4 h-4" />}      label="Job Recommendations" />
 
           <p className="text-[9px] font-bold text-slate-600 uppercase tracking-[0.25em] px-4 mb-3 mt-8">Tools</p>
-          <SidebarItem href="/self_intro"          icon={<UserCircle />}      label="Self Introduction"    />
+          <SidebarItem href="/self-intro"          icon={<UserCircle className="w-4 h-4" />}     label="Self Introduction" active />
           <SidebarItem href="/higher-studies"      icon={<GraduationCap className="w-4 h-4" />} label="Higher Studies" />
         </nav>
 
@@ -683,3 +683,5 @@ export default function SelfIntroCoach() {
     </div>
   );
 }
+
+// AI self introduction analysis and coaching feature
