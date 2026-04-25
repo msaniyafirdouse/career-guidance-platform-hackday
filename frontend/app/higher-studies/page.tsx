@@ -593,3 +593,5 @@ export default function HigherStudiesPage() {
     </div>
   );
 }
+
+// Higher studies recommendation and advisory module
