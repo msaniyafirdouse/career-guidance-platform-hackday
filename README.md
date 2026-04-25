@@ -337,4 +337,4 @@ MIT License — see [LICENSE](LICENSE) for details.
  
 *From zero clarity to verified offer — powered entirely by Google Gemini.*
  
-Added Gemini-powered skill gap analysis module.
+Added AI chatbot and mock interview module.
